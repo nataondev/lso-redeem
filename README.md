@@ -32,6 +32,3 @@ Gunakan comma *','* tanpa spasi untuk *multiple* code.
 ##### Run tools
 > node index.js
 
-##### Donasi
->DANA - nata
-083862967865
