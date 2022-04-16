@@ -17,11 +17,12 @@ Contoh *multiple* data, gunakan enter untuk pemisah akun.
 
 
    >username|password
-username2|password2
+   >
+   >username2|password2
 
 Edit list code redeem pada code.txt
 
-Gunakan comma * ','* tanpa spasi untuk *multiple* code.
+Gunakan comma *','* tanpa spasi untuk *multiple* code.
 
 > LIVINGLEGEND,BAJUKOKO
 
